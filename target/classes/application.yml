@@ -1,0 +1,9 @@
+springdoc:
+  version: '@springdoc.version@'
+
+spring:
+  data:
+    mongodb:
+      database: orders
+      port: 27017
+      host: localhost

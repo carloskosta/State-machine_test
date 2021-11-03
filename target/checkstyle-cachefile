@@ -1,0 +1,18 @@
+#Fri Oct 29 00:21:34 CEST 2021
+module-resource*?\:checkstyle-suppressions.xml=C04A0157524106080EAEBC0ACF2E1C33E5672B2
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\config\\OrderHandlerConfig.java=1635454560379
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\service\\OrderServiceFacade.java=1635457093342
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\service\\OrderStateMachineService.java=1635454560388
+C\:\\RepositoriosGit\\state-machine\\src\\test\\java\\com\\carlosreydacosta\\statemachine\\StateMachineApplicationTests.java=1635447412995
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\config\\OpenApiConfig.java=1635457093349
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\repository\\entity\\OrderEntity.java=1635448316752
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\handler\\dto\\OrderDto.java=1635454560368
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\service\\OrderService.java=1635453435809
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\handler\\dto\\OrderResultDto.java=1635455314507
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\repository\\entity\\PreviousStatus.java=1635448316770
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\handler\\OrderHandler.java=1635457093322
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\service\\OrderMongoService.java=1635456933174
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\StateMachineApplication.java=1635458353826
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\service\\mapper\\OrderMapper.java=1635456933182
+C\:\\RepositoriosGit\\state-machine\\src\\main\\java\\com\\carlosreydacosta\\statemachine\\repository\\OrderRepository.java=1635456933167
+configuration*?=F87122DBBFC62C269A72F8B51D3DEBA210B81481

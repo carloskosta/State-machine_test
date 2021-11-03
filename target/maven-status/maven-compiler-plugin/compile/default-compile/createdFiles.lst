@@ -1,0 +1,17 @@
+com\carlosreydacosta\statemachine\handler\dto\OrderDto.class
+com\carlosreydacosta\statemachine\handler\dto\OrderResultDto$OrderResultDtoBuilder.class
+com\carlosreydacosta\statemachine\repository\entity\OrderEntity$OrderEntityBuilder.class
+com\carlosreydacosta\statemachine\service\OrderStateMachineService$1.class
+com\carlosreydacosta\statemachine\StateMachineApplication.class
+com\carlosreydacosta\statemachine\repository\OrderRepository.class
+com\carlosreydacosta\statemachine\repository\entity\OrderEntity.class
+com\carlosreydacosta\statemachine\service\OrderStateMachineService.class
+com\carlosreydacosta\statemachine\service\mapper\OrderMapper.class
+com\carlosreydacosta\statemachine\config\OpenApiConfig.class
+com\carlosreydacosta\statemachine\handler\OrderHandler.class
+com\carlosreydacosta\statemachine\service\OrderService.class
+com\carlosreydacosta\statemachine\service\OrderServiceFacade.class
+com\carlosreydacosta\statemachine\repository\entity\PreviousStatus.class
+com\carlosreydacosta\statemachine\handler\dto\OrderResultDto.class
+com\carlosreydacosta\statemachine\config\OrderHandlerConfig.class
+com\carlosreydacosta\statemachine\service\OrderMongoService.class
